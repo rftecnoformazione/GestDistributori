@@ -18,6 +18,6 @@ targa <input type="targa" name="password" required="required"><br>
 
 <input type="submit" value="Inserisci" >
 </form>
-dddggg
+NOTA
 </body>
 </html>
